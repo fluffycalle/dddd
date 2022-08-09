@@ -1,0 +1,88 @@
+{
+    "itemtype": "skin",
+    "name": "Psycho Bandit to Pink Psycho Bandit",
+    "icon": "https://cdn.discordapp.com/attachments/921723053086482485/1005208741035114598/1111111111111111111111111.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/921723053086482485/1005192548660293694/Fortnite_Psycho-Bandit_Skin.png",
+    "pak": "https://cdn.discordapp.com/attachments/751157146082738289/854325032209612880/pakchunkDemiQuinn-WindowsClient.pak",
+    "paknumber": "PinkPsycho"
+  },
+
+    {
+    "itemtype": "skin",
+    "name": "Wonder to RedBlueBlack Wonder",
+    "icon": "https://cdn.discordapp.com/attachments/921723053086482485/1005225345504518205/414141424.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/921723053086482485/1005197844124278844/11423048234238432.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006499655590350849/pakchunkRedBlueBlackWonder-WindowsClien.pak",
+    "paknumber": "RedBlueBlackWonder"
+  },
+
+    {
+    "itemtype": "skin",
+    "name": "Wonder to Google Wonder",
+    "icon": "https://cdn.discordapp.com/attachments/921723053086482485/1005227317066469448/1412424214234234.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/921723053086482485/1005197844124278844/11423048234238432.png",
+    "pak": "",
+    "paknumber": "GoogleWonder"
+  },
+
+    {
+    "itemtype": "skin",
+    "name": "Psycho Bandit to Simpson Psycho",
+    "icon": "https://cdn.discordapp.com/attachments/1006445276271231039/1006507010528923778/2314312312312.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_515_Athena_Commando_M_BarbequeLarry/smallicon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006498382010916905/pakchunkSimpsonPsycho-WindowsClien.pak",
+    "paknumber": "SimpsonPsycho"
+  },
+    {
+    "itemtype": "skin",
+    "name": "Kyra to Red Kyra",
+    "icon": "https://cdn.discordapp.com/attachments/921723053086482485/1005227317066469448/1412424214234234.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_806_Athena_Commando_F_GreenJacket/smallicon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006498372825395230/pakchunkRedKira-WindowsClient.pak",
+    "paknumber": "RedKira"
+  },
+
+    {
+    "itemtype": "skin",
+    "name": "Wonder to KFC Wonder",
+    "icon": "https://cdn.discordapp.com/attachments/1006445276271231039/1006506228895195136/adadadsadd.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/921723053086482485/1005197844124278844/11423048234238432.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006498313564061736/pakchunkKfcWonder-WindowsClient.pak",
+    "paknumber": "KFCWonder"
+  },
+
+    {
+    "itemtype": "skin",
+    "name": "Surf Witch to Gucci Surf Witch",
+    "icon": "https://cdn.discordapp.com/attachments/1006445276271231039/1006505575321972766/1231231321.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_805_Athena_Commando_F_PunkDevilSummer/smallicon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006498278730371112/pakchunkGucciSurfWitch-WindowsClien.pak",
+    "paknumber": "GucciSurfWitch"
+  },
+
+     {
+    "itemtype": "skin",
+    "name": "Dummy to BurgerKing Dummy",
+    "icon": "https://cdn.discordapp.com/attachments/1006445276271231039/1006509696083050527/kdoakfakf.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_795_Athena_Commando_M_Dummeez/smallicon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006498243015876688/pakchunkBurgerKingDummy-WindowsClien.pak",
+    "paknumber": "BurgerKingDummy"
+  },
+
+     {
+    "itemtype": "skin",
+    "name": "Birdie to Nike Birdie (Skin by Mylo)",
+    "icon": "https://cdn.discordapp.com/attachments/1006445276271231039/1006507591993655307/birdie.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_387_Athena_Commando_F_Golf/smallicon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006501328236843078/pakchunkNikeBirdie-WindowsClient.pak",
+    "paknumber": "NikeBirdie"
+  },
+
+     {
+    "itemtype": "background",
+    "name": "Season 14 To Sky Background",
+    "icon": "https://cdn.discordapp.com/attachments/959483503895015465/1006569533420609596/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/835221031932395520/848640150292135956/unknown.png",
+    "pak": "https://cdn.discordapp.com/attachments/1006445276271231039/1006569258165227581/pakchunkSkyBackground-WindowsClient.pak",
+    "paknumber": "Sky"
+  },
